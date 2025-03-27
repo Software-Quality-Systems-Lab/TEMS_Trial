@@ -1,0 +1,7 @@
+Matching ID ;Segment ;Region ;Age ;Gender ;IAB Segment 
+0001 ;Travel ;Zaragoza ;18-25 ;M ;Hotels 
+0002 ;Travel ;Zaragoza ;25-35 ;M ;Cruisers 
+0003 ;Sports ;Zaragoza ;+60 ;M ;Health 
+0004 ;Beauty ;Madrid ;25-35 ;F ;Nutrition 
+0005 ;Nutrition ;Madrid ;35-45 ;F ;Nutrition 
+0006 ;Sports ;Madrid ;25-35 ;F ;Fitness 
